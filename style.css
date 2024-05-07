@@ -1,0 +1,23 @@
+body {
+  margin: 170px 300px;
+}
+div {
+  width: 200px auto;
+  height: 100%;
+  padding: 20px 70px;
+  background-color: rgb(90, 212, 90);
+  display: inline-block;
+}
+p {
+  text-align: center;
+  color: white;
+}
+
+.p2 {
+  margin: 0 auto;
+  font-size: 50px;
+}
+
+a {
+  background-color: black;
+}
